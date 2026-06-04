@@ -6,9 +6,10 @@ Bir kayıt formu ilk kez yayına alınmadan önce, sistemdeki alanların doğru 
 
 `task-2.js` içinde aşağıdaki işleri yapın:
 
-Ad, yaş, öğrenci durumu ve sevilen sayı için değişkenler oluşturun.
-Her değişkenin veri türünü `typeof` ile kontrol edin.
-Sonuçları konsola yazdırın.
+Önce ad, yaş, öğrenci durumu ve sevilen sayı için ayrı değişkenler oluşturun.
+Her değişken için hangi veri tipinin uygun olduğunu düşünün ve değeri ona göre atayın.
+Ardından her değişkenin veri türünü `typeof` ile kontrol edin.
+Sonuçları konsola yazdırın ve hangi değişkenin hangi türü döndürdüğünü gözlemleyin.
 
 Amaç, değişken tanımlama ve veri türlerini ayırt etme pratiği yapmaktır.
 

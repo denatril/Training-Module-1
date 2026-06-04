@@ -6,9 +6,10 @@ Bir etkinlik kayıt sistemi, kullanıcıların yaş ve kimlik bilgilerine göre 
 
 `task-4.js` içinde aşağıdaki işleri yapın:
 
-`==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=` operatörlerini test edin.
-İki sayıyı karşılaştırın.
-Bir yaş kontrolü senaryosu yazın.
+Önce aynı değerin farklı türlerle nasıl davrandığını test edin.
+`==`, `===`, `!=`, `!==` operatörlerini birkaç örnekle karşılaştırın.
+Sonra `>`, `<`, `>=`, `<=` operatörleriyle iki sayı arasında kıyaslama yapın.
+Son olarak bir yaş kontrolü senaryosu yazın ve sonucun ne olduğuna bakın.
 
 Amaç, karşılaştırma operatörlerinin farkını anlamak ve doğru koşul kurabilmektir.
 

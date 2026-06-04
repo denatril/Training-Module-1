@@ -6,10 +6,10 @@ Satış ekibi, küçük bir sipariş ekranında kullanılacak yardımcı fonksiy
 
 `task-5.js` içinde aşağıdaki işleri yapın:
 
-Parametresiz bir fonksiyon yazın.
-Parametre alan bir fonksiyon yazın.
-Geri dönüş değeri olan bir fonksiyon yazın.
-İki sayıyı toplayan bir fonksiyon oluşturun.
+İlk olarak ekrana sabit bir mesaj basan parametresiz bir fonksiyon yazın.
+Ardından dışarıdan bir değer alan ve bu değeri kullanan bir fonksiyon yazın.
+Bunlara ek olarak bir hesaplama sonucu döndüren `return` yapılı bir fonksiyon oluşturun.
+Son adımda iki sayıyı toplayan yardımcı bir fonksiyon yazın ve sonucu kullanın.
 
 Amaç, fonksiyon mantığını ve tekrar kullanılabilir kod yazmayı öğrenmektir.
 

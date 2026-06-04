@@ -6,10 +6,10 @@ Bir okul yönetim paneli için basit bir not sorgulama sistemi hazırlanıyor. �
 
 `task-7.js` içinde aşağıdaki işleri yapın:
 
-Öğrenci adı tutulmalıdır.
-Öğrenci notu tutulmalıdır.
-Geçme durumu kontrol edilmelidir.
-En az 2 fonksiyon kullanılmalıdır.
+Önce öğrenci adı ve notunu tutan değişkenleri oluşturun.
+Sonra not değerine göre geçme ya da kalma durumunu hesaplayan bir yardımcı fonksiyon yazın.
+İkinci bir fonksiyon ile öğrenci bilgilerini ekrana düzenli biçimde yazdırın.
+Akışın en az 2 fonksiyon içerdiğinden emin olun.
 
 Mantık:
 

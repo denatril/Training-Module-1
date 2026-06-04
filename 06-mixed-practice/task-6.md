@@ -6,10 +6,10 @@ Müşteri destek ekibi, aktif üyeler için tek bir özet mesajı üreten küç�
 
 `task-6.js` içinde aşağıdaki işleri yapın:
 
-Küçük bir kullanıcı profili oluşturun.
-Profil bilgilerini bir mesaj halinde birleştirin.
-Karşılaştırma içeren en az bir kontrol yapın.
-Sonucu bir fonksiyon yardımıyla yazdırın.
+Önce küçük bir kullanıcı profili oluşturun.
+Bu profilde ad, yaş, şehir ve aktiflik durumunu ayrı değişkenlerde tutun.
+Ardından bu bilgileri tek bir açıklayıcı mesajda birleştirin.
+En az bir koşul kontrolü ekleyin ve sonucu bir fonksiyon içinde yazdırın.
 
 Amaç, farklı konuları tek bir çözüm içinde birleştirebilme pratiği yapmaktır.
 

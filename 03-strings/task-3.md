@@ -6,10 +6,11 @@ Bu görevi `task-3.js` dosyasında gerçekleştirin.
 
 `task-3.js` içinde aşağıdaki işleri yapın:
 
-Ad ve soyad değişkenleri oluşturun.
-Bu iki değeri birleştirerek tam ad üretin.
-Bir string'in uzunluğunu bulun.
-Bir string'in ilk ve son karakterini yazdırın.
+Ad ve soyad için iki ayrı değişken oluşturun.
+Bu iki değeri birleştirerek tam adı tek bir string olarak üretin.
+Daha sonra başka bir metin belirleyin ve bu metnin uzunluğunu ölçün.
+Aynı metnin ilk ve son karakterini de ekrana yazdırın.
+Gerekirse string index mantığını kullanın.
 
 Amaç, stringlerle temel manipülasyon pratiği yapmaktır.
 
